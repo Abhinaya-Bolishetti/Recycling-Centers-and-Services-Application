@@ -43,7 +43,12 @@ Open your web browser and navigate to the provided URL (usually http://localhost
 
 ## Screenshots
 
-![screenshot2](screenshot2.png)
+### Home Screen
+![Home Screen](screenshots/home_screen.jpeg)
+
+### Waste Detection Result
+![Detection Result](screenshots/detection_result.jpeg)
+
 
 ## References
 
