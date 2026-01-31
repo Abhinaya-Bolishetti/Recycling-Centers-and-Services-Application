@@ -44,10 +44,11 @@ Open your web browser and navigate to the provided URL (usually http://localhost
 ## Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home_screen.jpeg)
+<img src="screenshots/home.jpeg" width="600"/>
 
 ### Waste Detection Result
-![Detection Result](screenshots/detection_result.jpeg)
+<img src="screenshots/detection_result.jpeg" width="600"/>
+
 
 
 ## References
